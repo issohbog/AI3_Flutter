@@ -1,6 +1,7 @@
 import 'package:flutter/material.dart';
-import 'package:sqlite_board_app/models/boards.dart';
-import 'package:sqlite_board_app/service/board_service.dart';
+import 'package:http_board_app/models/boards.dart';
+import 'package:http_board_app/service/board_service.dart';
+
 
 class DetailScreen extends StatefulWidget {
   const DetailScreen({super.key});
